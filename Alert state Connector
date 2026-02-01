@@ -246,3 +246,6 @@ if __name__ == "__main__":
     # Connectors are run in iterations. The interval is configurable from the ConnectorsScreen UI.
     is_test = not (len(sys.argv) < 2 or sys.argv[1] == "True")
     main(is_test)
+
+https://docs.cloud.google.com/chronicle/docs/reference/rest?rep_location=africa-south1#service:-chronicle.googleapis.com
+https://docs.cloud.google.com/chronicle/docs/reference/mcp/get_security_alert#:\~:text=Tool:%20get_security_alert,Collection%27%20object).&text=Next%20Steps:%20%2D%20Update%20the%20alert,invoke%20the%20get_security_alert%20MCP%20tool.
